@@ -5,6 +5,6 @@
 domain: testproject.org
 layout:
 - go.kubebuilder.io/v4
-projectName: kubebuilder-test-v2
-repo: github.com/test/basic-project
+projectName: kubebuilder-test-fresh
+repo: github.com/nerdeveloper/kubebuilder-test
 version: "3"

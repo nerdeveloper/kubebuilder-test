@@ -1,4 +1,4 @@
-module github.com/test/basic-project
+module github.com/nerdeveloper/kubebuilder-test
 
 go 1.24.5
 
